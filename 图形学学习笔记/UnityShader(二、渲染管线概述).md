@@ -2,7 +2,11 @@
 参考链接：[Rocky Lai 的技术博客](http://blog.shuiguzi.com/2015/04/28/Shader_2/)
 
 
+<<<<<<< HEAD
 # **渲染管线(Rendering Pipeline)**#
+=======
+# **渲染管线(Rendering Pipeline)**
+>>>>>>> a5b65260921c9728643d082e9698e6eee8fcc06b
 
 说的俗一点就是可以理解为流水线。渲染管线我们可暂时理解为 **从得到模型数据到绘制出图像** 这一过程的称呼。
 
